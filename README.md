@@ -1,6 +1,11 @@
 # Emma-for-Spotify-TV
 Third-Party Spotify Player for FireTV &amp; Android TV
 
+0.86
+- added option to browse playlists, check the settings! (working on it for emma+)
+- optimized caching of songs
+- some bugfixes
+
 0.84/0.85
 - caching of playlists, tracks & albums for faster loading
 - some bugfixes
