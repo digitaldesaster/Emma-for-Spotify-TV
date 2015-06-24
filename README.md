@@ -1,6 +1,14 @@
 # Emma-for-Spotify-TV
 Third-Party Spotify Player for FireTV &amp; Android TV
 
+0.87
+- Emma+ now unlocks MyLibrary within the basic app (you need to sync your data again)
+- added option to browse playlists, check the settings!
+- added option to show your playlists & albums in the main menu, check the settings!
+- syncing your playlists is a lot faster!
+- optimized caching of songs
+- some bugfixes
+-
 0.86
 - added option to browse playlists, check the settings! (working on it for emma+)
 - optimized caching of songs
