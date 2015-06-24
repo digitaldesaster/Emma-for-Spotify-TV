@@ -8,7 +8,6 @@ Third-Party Spotify Player for FireTV &amp; Android TV
 - syncing your playlists is a lot faster!
 - optimized caching of songs
 - some bugfixes
--
 0.86
 - added option to browse playlists, check the settings! (working on it for emma+)
 - optimized caching of songs
